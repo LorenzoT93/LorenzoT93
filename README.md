@@ -2,7 +2,7 @@
 
 Passionate about everything when it comes to data (and problem-solving)!
 
-PhD Statistics @ CMU 🎓
+PhD Statistics @ CMU , Pittsburgh, USA 🎓
 
 Currently working as Trainee at the European Cental Bank 🇪🇺
 
