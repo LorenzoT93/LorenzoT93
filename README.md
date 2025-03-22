@@ -20,7 +20,7 @@ Worked on research projects in multiple fields:
 - 🧑‍🔬 chemical engineering
 
 
-🌱 I am currently working on:
+🌱 I am currently leaning:
 - CI/CL for deployment of RAG applications via Azure ML Studio;
 - Linux OS (via 🍓 $\pi$);
 
