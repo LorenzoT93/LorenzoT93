@@ -1,4 +1,5 @@
 ## Hi, this is Lorenzo! 
+![Header](https://github.com/user-attachments/assets/7625141c-d313-459e-88eb-8e006d26ee40) 
 
 Passionate about everything when it comes to data (and problem-solving)!
 
